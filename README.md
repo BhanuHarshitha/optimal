@@ -1,2 +1,2 @@
 ## For creating Docker File. Use the command 
- docker build . -f Dockerfile.dockerfile -t TagName
+ docker build . -f Dockerfile.dockerfile -t "TagName"
