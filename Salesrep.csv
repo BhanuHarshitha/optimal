@@ -1,0 +1,11 @@
+ID,Salesrep_name,Home_addr,Capacity
+1,Salesrep 1,"1313 Washington Street, Boston, MA 02118",3
+2,Salesrep 2,"901 Main Street, Waltham, MA 02451",2
+3,Salesrep 3,"55 Causeway St, Boston, MA 02114",1
+4,Salesrep 4,"78 Charles St, Boston, MA 02114",3
+5,Salesrep 5,"43 Monument Ave, Charlestown, MA 02129",3
+6,Salesrep 6,"125 Charles St, Cambridge, MA 02141",3
+7,Salesrep 7,"95 Broadway, Somerville, MA 02145",2
+8,Salesrep 8,"55 Union St, Newton, MA 02459",2
+9,Salesrep 9,"134 Harvard St, Brookline, MA 02446",1
+10,Salesrep 10,"250 Jackson Rd, Newton, MA 02458",3
