@@ -6,4 +6,5 @@
 
 ## To push the Docker image from local system to remote repository
   docker tag optimal:v1 bhanu208/optimal:v1 
+  
   docker push bhanu208/optimal:v1
